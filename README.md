@@ -490,7 +490,7 @@ Cyber Sec: Resources &amp; Tools
 # Windows AutoStart Registry Keys
 - RegRipper https://github.com
 
-#System Behavior Analysis
+# System Behavior Analysis
 
 ## Monitoring Windows Services
 - Windows Service Manager (SrvMan) https://sysprogs.com
